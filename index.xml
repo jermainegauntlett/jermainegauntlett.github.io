@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Hugo Profile</title>
+		<link>http://localhost:1313/</link>
+		<description>Recent content on Hugo Profile</description>
+		<generator>Hugo</generator>
+		<language>en-us</language>
+		
+		
+		
+		
+			<lastBuildDate>Fri, 19 Jun 2026 22:41:10 +0530</lastBuildDate>
+		
+			<atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Data Ethics...What say you Jermaine</title>
+				<link>http://localhost:1313/blogs/survey_ethics/</link>
+				<pubDate>Fri, 19 Jun 2026 22:41:10 +0530</pubDate>
+				<guid>http://localhost:1313/blogs/survey_ethics/</guid>
+				<description>&lt;p&gt;Student surveys are widely used by schools, colleges, and universities to gather information about student experiences, academic performance, campus life, and institutional effectiveness. The data collected from these surveys can help educational leaders make informed decisions, improve student services, and create better learning environments. However, if surveys are poorly designed, they can introduce bias, compromise student privacy, and produce unreliable results.This blog explores the importance of ethical student surveys, the risks associated with poor survey design, and practical recommendations for improving survey practices. One of the most critical ethical considerations in student surveys is protecting participant privacy. Students often share sensitive information regarding their academic performance, mental well-being, financial situations, cultural backgrounds, and personal experiences. If students believe their responses can be traced back to them, they may be reluctant to answer honestly. Protecting student identity benefits both participants and researchers. When students feel safe and anonymous, they are more likely to provide truthful and detailed responses, resulting in higher-quality data. Some key methods for preserving identity include:&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Image Gallery</title>
+				<link>http://localhost:1313/gallery/</link>
+				<pubDate>Sat, 25 Jun 2022 18:35:46 +0530</pubDate>
+				<guid>http://localhost:1313/gallery/</guid>
+				<description></description>
+			</item>
+	</channel>
+</rss>
