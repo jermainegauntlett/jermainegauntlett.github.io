@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>Placeholder Text on Hugo Profile</title>
-		<link>http://localhost:1313/tags/placeholder-text/</link>
+		<link>http://localhost:54969/tags/placeholder-text/</link>
 		<description>Recent content in Placeholder Text on Hugo Profile</description>
 		<generator>Hugo</generator>
 		<language>en-us</language>
@@ -12,13 +12,20 @@
 		
 			<lastBuildDate>Fri, 19 Jun 2026 22:41:10 +0530</lastBuildDate>
 		
-			<atom:link href="http://localhost:1313/tags/placeholder-text/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="http://localhost:54969/tags/placeholder-text/index.xml" rel="self" type="application/rss+xml" />
 			<item>
-				<title>Data Ethics...What say you Jermaine</title>
-				<link>http://localhost:1313/blogs/survey_ethics/</link>
+				<title>Can Student Surveys be trusted?...What say you Jermaine</title>
+				<link>http://localhost:54969/blogs/survey_ethics/</link>
 				<pubDate>Fri, 19 Jun 2026 22:41:10 +0530</pubDate>
-				<guid>http://localhost:1313/blogs/survey_ethics/</guid>
-				<description>&lt;p&gt;Student surveys are widely used by schools, colleges, and universities to gather information about student experiences, academic performance, campus life, and institutional effectiveness. The data collected from these surveys can help educational leaders make informed decisions, improve student services, and create better learning environments. However, if surveys are poorly designed, they can introduce bias, compromise student privacy, and produce unreliable results.This blog explores the importance of ethical student surveys, the risks associated with poor survey design, and practical recommendations for improving survey practices. One of the most critical ethical considerations in student surveys is protecting participant privacy. Students often share sensitive information regarding their academic performance, mental well-being, financial situations, cultural backgrounds, and personal experiences. If students believe their responses can be traced back to them, they may be reluctant to answer honestly. Protecting student identity benefits both participants and researchers. When students feel safe and anonymous, they are more likely to provide truthful and detailed responses, resulting in higher-quality data. Some key methods for preserving identity include:&lt;/p&gt;</description>
+				<guid>http://localhost:54969/blogs/survey_ethics/</guid>
+				<description>&lt;p&gt;Hello everyone and thank you for reading my initial blog on the topic of Data and Ethics where student surveys are concerned. I will explore how data can be leading or misleading and present situations where ethics and accountability are put in question.&lt;/p&gt;&#xA;&lt;p&gt;Student surveys are widely used by schools, colleges, and universities to gather information about student experiences, academic performance, campus life, and institutional effectiveness. The data collected from these surveys can help educational leaders make informed decisions, improve student services, and create better learning environments. However, if surveys are poorly designed, they can introduce bias, compromise student privacy, and produce unreliable results.This blog explores the importance of ethical student surveys, the risks associated with poor survey design, and practical recommendations for improving survey practices. One of the most critical ethical considerations in student surveys is protecting participant privacy. Students often share sensitive information regarding their academic performance, mental well-being, financial situations, cultural backgrounds, and personal experiences. If students believe their responses can be traced back to them, they may be reluctant to answer honestly. Protecting student identity benefits both participants and researchers. When students feel safe and anonymous, they are more likely to provide truthful and detailed responses, resulting in higher-quality data. Some key methods for preserving identity include:&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>When Smart Isn&#39;t Fair: Understanding Bias and Fairness in Artificial Intelligence</title>
+				<link>http://localhost:54969/blogs/ai_ethics/</link>
+				<pubDate>Fri, 19 Jun 2026 22:41:10 +0530</pubDate>
+				<guid>http://localhost:54969/blogs/ai_ethics/</guid>
+				<description>&lt;p&gt;Hello everyone and thank you for reading my second blog on the topic of Understanding Bias and Fairness in AI. In this blog, I will explore how algorithmic bias develops, why fairness matters, and how ethical AI frameworks, AI governance, soft ethics, and data science ethics can help create more responsible AI systems. Additionlly, I will also discuss a real-world example that demonstrates why fairness should be a priority whenever AI is developed and deployed.&lt;/p&gt;</description>
 			</item>
 	</channel>
 </rss>
